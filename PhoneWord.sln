@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp", "FirstApp\FirstApp.csproj", "{59F61B72-B451-49FA-9C3F-8806EBD9D287}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneWord", "FirstApp\PhoneWord.csproj", "{59F61B72-B451-49FA-9C3F-8806EBD9D287}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

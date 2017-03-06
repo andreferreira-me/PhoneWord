@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("FirstApp.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("PhoneWord.Resource", IsApplication=true)]
 
-namespace FirstApp
+namespace PhoneWord
 {
 	
 	
@@ -57,6 +57,31 @@ namespace FirstApp
 			}
 		}
 		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f050003
+			public const int CallButton = 2131034115;
+			
+			// aapt resource value: 0x7f050001
+			public const int PhoneNumberText = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int TranslateButton = 2131034114;
+			
+			// aapt resource value: 0x7f050000
+			public const int textView1 = 2131034112;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
 		public partial class Layout
 		{
 			
@@ -76,11 +101,8 @@ namespace FirstApp
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
-			
 			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			public const int ApplicationName = 2130968576;
 			
 			static String()
 			{
